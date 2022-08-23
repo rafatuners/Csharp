@@ -1,0 +1,14 @@
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\bin\Debug\net6.0\primeiro2.exe
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\bin\Debug\net6.0\primeiro2.deps.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\bin\Debug\net6.0\primeiro2.runtimeconfig.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\bin\Debug\net6.0\primeiro2.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\bin\Debug\net6.0\ref\primeiro2.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\bin\Debug\net6.0\primeiro2.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\obj\Debug\net6.0\primeiro2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\obj\Debug\net6.0\primeiro2.AssemblyInfoInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\obj\Debug\net6.0\primeiro2.AssemblyInfo.cs
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\obj\Debug\net6.0\primeiro2.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\obj\Debug\net6.0\primeiro2.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\obj\Debug\net6.0\ref\primeiro2.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\obj\Debug\net6.0\primeiro2.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\primeiro2\primeiro2\obj\Debug\net6.0\primeiro2.genruntimeconfig.cache

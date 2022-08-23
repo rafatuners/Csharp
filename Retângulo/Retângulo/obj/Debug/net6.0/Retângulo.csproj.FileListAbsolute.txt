@@ -1,0 +1,15 @@
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.csproj.AssemblyReference.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.AssemblyInfoInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.AssemblyInfo.cs
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.exe
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.deps.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.runtimeconfig.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\bin\Debug\net6.0\ref\Retângulo.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\obj\Debug\net6.0\ref\Retângulo.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.genruntimeconfig.cache

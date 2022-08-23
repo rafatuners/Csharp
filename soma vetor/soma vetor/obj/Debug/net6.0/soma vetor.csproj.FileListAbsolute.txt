@@ -1,0 +1,14 @@
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\obj\Debug\net6.0\soma vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\obj\Debug\net6.0\soma vetor.AssemblyInfoInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\obj\Debug\net6.0\soma vetor.AssemblyInfo.cs
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\obj\Debug\net6.0\soma vetor.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\bin\Debug\net6.0\soma vetor.exe
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\bin\Debug\net6.0\soma vetor.deps.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\bin\Debug\net6.0\soma vetor.runtimeconfig.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\bin\Debug\net6.0\soma vetor.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\bin\Debug\net6.0\ref\soma vetor.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\bin\Debug\net6.0\soma vetor.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\obj\Debug\net6.0\soma vetor.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\obj\Debug\net6.0\ref\soma vetor.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\obj\Debug\net6.0\soma vetor.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\soma vetor\soma vetor\obj\Debug\net6.0\soma vetor.genruntimeconfig.cache

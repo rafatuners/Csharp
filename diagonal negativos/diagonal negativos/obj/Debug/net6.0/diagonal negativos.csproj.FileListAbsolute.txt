@@ -1,0 +1,15 @@
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\bin\Debug\net6.0\diagonal negativos.exe
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\bin\Debug\net6.0\diagonal negativos.deps.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\bin\Debug\net6.0\diagonal negativos.runtimeconfig.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\bin\Debug\net6.0\diagonal negativos.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\bin\Debug\net6.0\ref\diagonal negativos.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\bin\Debug\net6.0\diagonal negativos.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\obj\Debug\net6.0\diagonal negativos.csproj.AssemblyReference.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\obj\Debug\net6.0\diagonal negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\obj\Debug\net6.0\diagonal negativos.AssemblyInfoInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\obj\Debug\net6.0\diagonal negativos.AssemblyInfo.cs
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\obj\Debug\net6.0\diagonal negativos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\obj\Debug\net6.0\diagonal negativos.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\obj\Debug\net6.0\ref\diagonal negativos.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\obj\Debug\net6.0\diagonal negativos.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\diagonal negativos\diagonal negativos\obj\Debug\net6.0\diagonal negativos.genruntimeconfig.cache

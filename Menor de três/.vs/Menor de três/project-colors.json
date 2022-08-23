@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4c874ff-e1b5-4a53-962c-7688d8d72e1a": {
+      "ProjectGuid": "a4c874ff-e1b5-4a53-962c-7688d8d72e1a",
+      "DisplayName": "Menor de três",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

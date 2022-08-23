@@ -1,0 +1,14 @@
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\bin\Debug\net6.0\Menor de três.exe
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\bin\Debug\net6.0\Menor de três.deps.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\bin\Debug\net6.0\Menor de três.runtimeconfig.json
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\bin\Debug\net6.0\Menor de três.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\bin\Debug\net6.0\ref\Menor de três.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\bin\Debug\net6.0\Menor de três.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\obj\Debug\net6.0\Menor de três.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\obj\Debug\net6.0\Menor de três.AssemblyInfoInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\obj\Debug\net6.0\Menor de três.AssemblyInfo.cs
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\obj\Debug\net6.0\Menor de três.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\obj\Debug\net6.0\Menor de três.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\obj\Debug\net6.0\ref\Menor de três.dll
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\obj\Debug\net6.0\Menor de três.pdb
+C:\Users\Rafael\Rafael\Curso algorítimo\C#\excercícios\Menor de três\Menor de três\obj\Debug\net6.0\Menor de três.genruntimeconfig.cache
